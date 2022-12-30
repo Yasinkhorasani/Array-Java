@@ -5,7 +5,7 @@ package grundlagen;
  * 
  * Methoden: eine Funktionalität wird wieder verwendet
  * Methode: ein Modul, das eine Funktionalität zusammenfasst
- * @author Alfa
+ * @author Yasin
  *
  */
 public class Modularisierung {
